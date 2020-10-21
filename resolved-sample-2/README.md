@@ -1,7 +1,7 @@
-# Sample 1
+# Sample 2
 
-Este ejemplo es utilizado para crear el repositorio
-`terraform-workshop-nerdearla-2020-sample-1`.
+Este ejemplo es utilizado para demostrar como instanciar y crear un modulo de
+Terraform
 
 # Uso
 
