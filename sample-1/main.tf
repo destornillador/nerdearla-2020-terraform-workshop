@@ -10,6 +10,6 @@ resource "github_repository" "sample_1" {
 
 resource "github_branch" "development" {
   repository    = github_repository.sample_1.name
-  branch        = upper(var.repository_sample_1_branch_dev)
+  branch        = "development"
   source_branch = "main"
 }

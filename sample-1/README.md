@@ -1,9 +1,9 @@
 # Sample 1
 
-Este ejemplo es utilizado para crear el repositorio
-`terraform-workshop-nerdearla-2020-sample-1`.
+Este ejemplo es utilizado para interactuar con los comandos basicos de Terraform
+por primera vez.
 
-# Uso
+## Uso
 
 ```sh
 # Inicializar

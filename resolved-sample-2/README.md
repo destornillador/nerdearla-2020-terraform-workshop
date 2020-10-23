@@ -3,7 +3,7 @@
 Este ejemplo es utilizado para demostrar como instanciar y crear un modulo de
 Terraform
 
-# Uso
+## Uso
 
 ```sh
 # Inicializar
