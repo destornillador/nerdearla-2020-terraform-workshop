@@ -13,7 +13,7 @@ dictado en [Nerdearla 2020](https://nerdear.la/).
 ## Material
 
 * [Spreadsheet](https://docs.google.com/presentation/d/1RCJQXTAkqdLgRwmngSPERN9aj6xuH7yRHLhM4kb5SL8/edit?usp=sharing)
-* [Video del evento NO oficial (requiere estar registrado en el evento)](https://www.youtube.com/watch?v=zYe6Iv0UJF8)
+* [Video del evento](https://www.youtube.com/watch?v=p3XYCneP2-Q)
 * [Ejercicios 1 & 2](./sample-1/)
 * [Ejercicio 3](./sample-2/)
 * [Ejercicios 1 & 2 - Resuelto](./resolved-sample-1/)
